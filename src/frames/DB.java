@@ -16,7 +16,7 @@ public class DB {
 public Connection conexion(){
 try{
 Class.forName("net.ucanaccess.jdbc.UcanaccessDriver");
-con = DriverManager.getConnection("jdbc:ucanaccess://C:/Users/CATG/Documents/NetBeansProjects/ATM/Base/DB.accdb", "", "");
+con = DriverManager.getConnection("jdbc:ucanaccess://DB.accdb", "", "");
         //JOptionPane.showMessageDialog(null,"DB Conectada ");
 } catch (HeadlessException | ClassNotFoundException | SQLException e){
         JOptionPane.showMessageDialog(null,"Error en la conexion: "+e);
