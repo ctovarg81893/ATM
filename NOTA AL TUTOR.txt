@@ -1,0 +1,13 @@
+Profe,
+
+Se sube el proyecto desde NetBeans y se adjunta la base de datos en src/frames, donde se encuentra todo el proyecto.
+
+El inicio del proyecto es Login.java, y la base de datos debe estar en la misma carpeta donde se encuentre el proyecto.
+
+Adicionalmente, se adjunta archivo atm.zip, que contiene una carpeta donde se encuentra archivo ATM.Jar, la base de datos, y las librerías necesarias para ejecutar el programa. 
+
+Espero que cumpla con todo lo requerido!
+
+saludos 
+
+Cesar Tovar
